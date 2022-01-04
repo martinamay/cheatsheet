@@ -1,0 +1,23 @@
+h1 {
+    color: aquamarine;
+}
+
+h2 {
+    color: red;
+}
+
+table {
+    width: 100%;
+    letter-spacing: 0.5px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 0px;
+    background-color: aquamarine;
+}
